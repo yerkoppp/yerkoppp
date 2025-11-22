@@ -10,7 +10,7 @@
     <a href="mailto:ycosorio.dev@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://yerkoppp.github.io/portfolio/"> 
+    <a href="https://yerkoppp.github.io/portafolio/"> 
       <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=firefox-browser&logoColor=white" />
     </a>
   </p>
